@@ -1,2 +1,5 @@
 # CATIA_V5_Geometry_used_for_balloon_adjustment
-これは将来削除します
+
+CATIA V5のDrawでのバルーン調整用のジオメトリクラス群です。
+
+マクロ完成後には、これらは削除します。
